@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "540025941467",
+    "project_id": "firestorejetpackcompose",
+    "storage_bucket": "firestorejetpackcompose.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540025941467:android:a857af69327fb754f94bfe",
+        "android_client_info": {
+          "package_name": "edu.kiet.firestorejetpackcompose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540025941467-82f296ojrpjg44mtp0ecahtol4ltqtis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMo3zmLR0UZ0g8Dy3ZF20z0lfL8ZL7w4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540025941467-82f296ojrpjg44mtp0ecahtol4ltqtis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

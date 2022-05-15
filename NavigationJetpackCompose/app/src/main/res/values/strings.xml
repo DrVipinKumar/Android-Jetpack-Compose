@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NavigationJetpackCompose</string>
+    <string name="title_activity_botton_navigation">BottonNavigation</string>
+</resources>

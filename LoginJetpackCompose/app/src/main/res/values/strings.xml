@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoginJetpackCompose</string>
+    <string name="title_activity_welcome">Welcome</string>
+</resources>

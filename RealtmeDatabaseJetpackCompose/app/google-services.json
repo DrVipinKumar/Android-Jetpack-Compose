@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "748909371958",
+    "project_id": "realtmedatabasejetpackcompose",
+    "storage_bucket": "realtmedatabasejetpackcompose.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748909371958:android:d316ef93ebe050dc3e2e97",
+        "android_client_info": {
+          "package_name": "edu.kiet.realtmedatabasejetpackcompose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748909371958-sb489523ofcraietaeav7rbm5suptbas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO9B861FprxsI7oPYz6xh37UO_Z1xVO_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748909371958-sb489523ofcraietaeav7rbm5suptbas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

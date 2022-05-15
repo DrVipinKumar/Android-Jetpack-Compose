@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FragmentwithComposableFun</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Fragment 2 with XML Layout</string>
+</resources>

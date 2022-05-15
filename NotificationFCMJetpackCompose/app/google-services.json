@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "359371702503",
+    "project_id": "notificationfcmjetpackco-a9c3c",
+    "storage_bucket": "notificationfcmjetpackco-a9c3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359371702503:android:7659d360ddd97e29412242",
+        "android_client_info": {
+          "package_name": "edu.kiet.notificationfcmjetpackcompose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359371702503-urnk3nc5mplf10tm6vkfqq78k00jvro6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz0xrC0lTiq4oblA020Tyt4ewsuRzh5Og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359371702503-urnk3nc5mplf10tm6vkfqq78k00jvro6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

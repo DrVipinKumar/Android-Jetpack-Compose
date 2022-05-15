@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AninatedCardText</string>
+    <string name="title_activity_color_change_animation">ColorChangeAnimation</string>
+</resources>
